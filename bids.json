@@ -1,0 +1,14 @@
+{
+  "highestBid": 2,
+  "highestBidder": "test2",
+  "bidHistory": [
+    {
+      "name": "test2",
+      "bid": "2"
+    },
+    {
+      "name": "test",
+      "bid": "1"
+    }
+  ]
+}
